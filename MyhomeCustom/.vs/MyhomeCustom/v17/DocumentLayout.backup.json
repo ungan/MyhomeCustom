@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uD68C\uC778\\Documents\\GitHub\\MyhomeCustom\\MyhomeCustom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAB4A67-3E2F-9959-8AD6-819EFF183B4B}|Assembly-CSharp.csproj|c:\\users\\\uD68C\uC778\\documents\\github\\myhomecustom\\myhomecustom\\assets\\script\\objectmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAB4A67-3E2F-9959-8AD6-819EFF183B4B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\objectmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ObjectMaker.cs",
+              "DocumentMoniker": "C:\\Users\\\uD68C\uC778\\Documents\\GitHub\\MyhomeCustom\\MyhomeCustom\\Assets\\Script\\ObjectMaker.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ObjectMaker.cs",
+              "ToolTip": "C:\\Users\\\uD68C\uC778\\Documents\\GitHub\\MyhomeCustom\\MyhomeCustom\\Assets\\Script\\ObjectMaker.cs",
+              "RelativeToolTip": "Assets\\Script\\ObjectMaker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:25:38.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
